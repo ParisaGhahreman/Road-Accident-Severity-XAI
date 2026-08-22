@@ -1,0 +1,4 @@
+﻿Implementation_Pathway,Number_of_Targets,Mean_Priority_Score,Mean_Robustness
+Adaptive / Targeted,1,65.5,83.3
+Immediate / System-level,3,74.4,100.0
+Local validation required,4,78.0,95.8

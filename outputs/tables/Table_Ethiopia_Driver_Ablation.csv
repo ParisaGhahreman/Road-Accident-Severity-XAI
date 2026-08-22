@@ -1,0 +1,7 @@
+Added_Driver_Feature,Accuracy,Macro_F1,Macro_Recall,Fatal_Recall,Fatal_F1,Serious_Recall,Serious_F1,Slight_Recall,Macro_F1_Change
+None (Baseline),0.7486,0.5094,0.5482,0.4355,0.3333,0.3848,0.3455,0.8242,-0.0
+Age_band_of_driver,0.7413,0.5078,0.5452,0.4355,0.3418,0.3848,0.3385,0.8154,-0.0016
+Driving_experience,0.7409,0.4964,0.5217,0.3548,0.3034,0.3949,0.3425,0.8154,-0.013
+Educational_level,0.7317,0.4947,0.5313,0.4194,0.327,0.3671,0.3204,0.8075,-0.0147
+Drivers_gender,0.7436,0.4931,0.5239,0.371,0.2949,0.3797,0.3382,0.821,-0.0163
+Vehicle_driver_relation,0.7241,0.4791,0.5248,0.4194,0.2955,0.3544,0.3087,0.8006,-0.0303

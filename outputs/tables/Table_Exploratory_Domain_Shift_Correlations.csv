@@ -1,0 +1,7 @@
+Metric,Pearson_r,Spearman_rho
+Accuracy,0.2949,0.239
+Macro_F1,-0.3344,0.0
+Macro_Recall,-0.9036,-0.8367
+Fatal_Recall,-0.7339,-0.5976
+Serious_Recall,-0.0097,0.0
+Slight_Recall,0.2092,0.239

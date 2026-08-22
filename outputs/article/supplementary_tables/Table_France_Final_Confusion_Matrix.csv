@@ -1,0 +1,4 @@
+,Predicted_Fatal,Predicted_Serious,Predicted_Slight
+Actual_Fatal,592,1033,1601
+Actual_Serious,1572,6112,8748
+Actual_Slight,2142,10289,22313

@@ -1,0 +1,8 @@
+Model,Accuracy,Macro_F1,Macro_Recall,Fatal_Recall,Serious_Recall
+CatBoost alpha=0.75,0.6634,0.4014,0.4216,0.1649,0.3069
+Weighted XGBoost alpha=0.75,0.6469,0.3869,0.4083,0.1581,0.2904
+Controlled Resampling CatBoost,0.5811,0.3681,0.4015,0.0,0.628
+Fully Balanced CatBoost,0.5174,0.3613,0.4701,0.4433,0.4131
+Logistic Regression Balanced,0.4826,0.333,0.4569,0.5361,0.2872
+Baseline XGBoost,0.7344,0.3239,0.3484,0.0034,0.0697
+Baseline CatBoost,0.7404,0.3109,0.3446,0.0,0.0451

@@ -1,0 +1,13 @@
+Finding,Result
+UK most important global SHAP feature,junction_common
+UK second most important global SHAP feature,vehicle_count
+UK third most important global SHAP feature,weather_common
+UK most important Fatal SHAP feature,junction_common
+Ethiopia driver SHAP contribution,19.46% ± 0.50%
+Ethiopia accident/environment SHAP contribution,80.54% ± 0.50%
+Ethiopia driver contribution to Fatal,21.51%
+Ethiopia driver contribution to Serious,17.66%
+Ethiopia driver contribution to Slight,20.49%
+Ethiopia top driver feature,Age_band_of_driver
+Ethiopia second driver feature,Driving_experience
+Driver-feature incremental Macro-F1 gain in repeated CV,+0.0030

@@ -1,0 +1,9 @@
+﻿Feature,Factor_Domain,Priority_Score_100,Priority_Level,Fatal_Relevance,Modifiability,Top8_Count,Top8_Percent
+junction_common,Road/Infrastructure,99.7,Priority I — High,23.01,Directly modifiable,6,100.0
+vehicle_count,Vehicle/Collision,77.3,Priority I — High,14.9,Indirectly modifiable,6,100.0
+surface_common,Road/Infrastructure,73.6,Priority I — High,6.42,Directly modifiable,6,100.0
+Area_accident_occured,Road/Infrastructure,73.2,Priority I — High,14.951736208640314,Partly modifiable,5,83.33333333333334
+light_common,Temporal/Environmental,72.7,Priority I — High,7.23,Directly/partly modifiable,6,100.0
+weather_common,Temporal/Environmental,72.3,Priority I — High,14.39,Not modifiable — targetable,6,100.0
+has_motorcycle,Vehicle/Collision,66.5,Priority I — High,8.47,Indirectly modifiable,6,100.0
+has_two_wheeler,Vehicle/Collision,65.5,Priority I — High,7.3,Indirectly modifiable,5,83.33333333333334

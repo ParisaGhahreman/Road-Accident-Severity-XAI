@@ -1,0 +1,4 @@
+Comparison,mean,median,std,max,min
+France vs Ethiopia,0.2067,0.2233,0.1208,0.4256,0.0123
+UK vs Ethiopia,0.1596,0.1605,0.1008,0.2941,0.0137
+UK vs France,0.1113,0.0878,0.0801,0.2666,0.0193

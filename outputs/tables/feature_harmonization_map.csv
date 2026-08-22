@@ -1,0 +1,13 @@
+Feature,Description
+hour,Hour of accident occurrence
+day_common,Day of week
+weather_common,Weather condition
+light_common,Lighting condition
+surface_common,Road surface condition
+junction_common,Junction type
+vehicle_count,Number of involved vehicles
+has_motorcycle,Presence of motorcycle
+has_heavy_vehicle,Presence of heavy vehicle
+has_public_transport,Presence of public transport
+has_two_wheeler,Presence of two wheeler
+severity_class,Accident severity

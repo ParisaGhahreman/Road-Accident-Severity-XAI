@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Explainable Machine Learning for Road Accident Severity Prediction"
+type: software
+authors:
+  - family-names: "Ghahreman Shahraki"
+    given-names: "Parisa"
+version: "1.0.0"
+date-released: 2026-08-22
+license: MIT
+repository-code: "https://github.com/ParisaGhahreman/Road-Accident-Severity-XAI"
+keywords:
+  - road accident severity
+  - explainable artificial intelligence
+  - machine learning
+  - SHAP
+  - cross-country validation
+  - road safety

@@ -1,0 +1,9 @@
+﻿Concept,Persian_Name,UK_Field,France_Field,Compatibility,Decision
+Time,زمان وقوع تصادف,time,hrmn,High,Keep
+Light Conditions,شرایط روشنایی,light_conditions,lum,High,Keep
+Weather Conditions,شرایط آب‌وهوایی,weather_conditions,atm,High,Keep
+Road Surface,وضعیت سطح جاده,road_surface_conditions,surf,High,Keep
+Urban/Rural,شهری یا برون‌شهری بودن,urban_or_rural_area,agg,High,Keep
+Speed Limit,حداکثر سرعت مجاز,speed_limit,vma,Moderate-High,Keep - cleaning required
+Junction,وضعیت/نوع تقاطع,junction_detail,int,Moderate-High,Keep - harmonization required
+Road Class,رده جاده,first_road_class,catr,Moderate,Review before final inclusion

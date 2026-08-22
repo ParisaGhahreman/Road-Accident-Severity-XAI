@@ -1,0 +1,13 @@
+Feature,UK,France,Ethiopia,Used_in_Cross_Country_Model
+hour,Yes,Yes,Yes,Yes
+day_common,Yes,Yes,Yes,Yes
+weather_common,Yes,Yes,Yes,Yes
+light_common,Yes,Yes,Yes,Yes
+surface_common,Yes,Yes,Yes,Yes
+junction_common,Yes,Yes,Yes,Yes
+vehicle_count,Yes,Yes,Yes,Yes
+has_motorcycle,Yes,Yes,Yes,Yes
+has_heavy_vehicle,Yes,Yes,Yes,Yes
+has_public_transport,Yes,Yes,Yes,Yes
+has_two_wheeler,Yes,Yes,Yes,Yes
+severity_class,Yes,Yes,Yes,Yes
