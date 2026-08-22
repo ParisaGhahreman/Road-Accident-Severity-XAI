@@ -52,3 +52,9 @@ The curated set is under:
 ## Citation and license
 
 Please cite the repository using `CITATION.cff`. The source code is released under the [MIT License](LICENSE). Dataset licenses are independent of the code license; do not redistribute datasets unless their terms allow it.
+
+## DOI
+
+Version 1.0.0 of this repository is archived on Zenodo:
+
+[https://doi.org/10.5281/zenodo.22054245](https://doi.org/10.5281/zenodo.22054245)
