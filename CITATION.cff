@@ -9,6 +9,7 @@ version: "1.0.0"
 date-released: 2026-08-22
 license: MIT
 repository-code: "https://github.com/ParisaGhahreman/Road-Accident-Severity-XAI"
+doi: 10.5281/zenodo.22054245
 keywords:
   - road accident severity
   - explainable artificial intelligence
